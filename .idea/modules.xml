@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/VideoCustom.iml" filepath="$PROJECT_DIR$/VideoCustom.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleVideoFullscreen.iml" filepath="$PROJECT_DIR$/sampleVideoFullscreen.iml" />
     </modules>
   </component>
 </project>
